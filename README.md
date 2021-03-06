@@ -1,4 +1,4 @@
-## Study_AI_ML_Prof.ChoiLecture
+## Study_AI_ML
 
 ## Youtube 강의
 ### 인공지능 https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2
