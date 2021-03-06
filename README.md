@@ -27,6 +27,22 @@
 | 13 | 뉴럴네트워크 | 인공지능 |
 | 14 | CNN | 인공지능 |
 
+## 인공지능 기술
+- k-NN(k-Nearest Neighbors algorithm)
+- Decision Tree
+- Linear Regression/Classification
+- Logistic Regression/Classification
+- Multinomial Regression/Classification
+- NN(Neural Network, Perceptron)
+- Sigmoid, Softmax, Dropout
+- DNN(Deep Neural Network, Deep Learning)
+- Feedforward NN, Backpropagation
+- CNN(Convolutional Neural Network)
+- RNN(Recurrent Neural Network)
+- Reinforcement Learning
+- DQN(Deep Q-Network)
+- GAN(Generactive Advarserial Network)
+
 ## 인공지능 라이브러리
 - [Scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
 - [PyTorch](https://pytorch.org/docs/stable/index.html)
