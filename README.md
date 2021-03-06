@@ -29,7 +29,13 @@
 
 ## 인공지능 기술
 - k-NN(k-Nearest Neighbors algorithm)
+- Decriminant Analysis
 - Decision Tree
+- Linear SVM(Soft Margin & Hard Margin)
+- Cluster
+- Dimension Reduction
+- Cross Validation
+- Ensemble
 - Linear Regression/Classification
 - Logistic Regression/Classification
 - Multinomial Regression/Classification
