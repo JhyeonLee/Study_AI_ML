@@ -31,6 +31,7 @@
 - [Scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
 - [PyTorch](https://pytorch.org/docs/stable/index.html)
 - [TensorFlow](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+- [Gym](https://gym.openai.com/docs/)
 
 ## 참고자료 + 추가공부
 - 혼자 공부하는 머신러닝+딥러닝. 박해선. 한빛미디어
