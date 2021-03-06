@@ -1,8 +1,8 @@
 ## Study_AI_ML
 
 ## Youtube 강의
-### 인공지능 https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2
-### 기계학습 https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU
+### [인공지능](https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2)
+### [기계학습](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU)
 
 ## 공부 방법
 - Lecture: Youtube 강의
