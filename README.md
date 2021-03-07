@@ -12,7 +12,8 @@
 
 | Week | Cource Contents | Course | Note | Lab | Etc |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 인공지능 개요 | 인공지능 |
+| 1 | 인공지능 개요 | 인공지능 |[pdf]
+(https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/01_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B0%9C%EC%9A%94.pdf)|
 | 2 | 데이터전처리 | 기계학습 |
 | 3 | KNN | 기계학습 |
 | 4 | 로지스틱회귀분류 | 기계학습 |
