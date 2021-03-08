@@ -14,7 +14,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | 인공지능 개요 | 인공지능 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/01_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B0%9C%EC%9A%94.pdf) |
 | 2 | 데이터전처리 | 기계학습 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/02_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC.pdf) |
-| 3 | KNN | 기계학습 |
+| 3 | kNN | 기계학습 |
 | 4 | 로지스틱회귀분류 | 기계학습 |
 | 5 | 판별분석 | 기계학습 |
 | 6 | 의사결정나무 | 기계학습 |
