@@ -57,8 +57,10 @@
 
 ## 참고자료 + 추가공부
 - 혼자 공부하는 머신러닝+딥러닝. 박해선. 한빛미디어
+- 파이썬 라이브러리를 활용한 머신러닝. 안드레아스 뮐러. 한빛미디어
 - 딥러닝의 정석. 니킬부두마. 한빛미디어
 - 심층학습. 이안굿펠로. Jpub
+- 핵심 딥러닝 입문: RNN, LSTM, GRU, VAE, GAN 구현. 아즈마 유키나가. 
 - [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
 - [모두를 위한 딥러닝 시즌2](https://deeplearningzerotoall.github.io/season2/)
   - [텐서플로우로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai212/joinLectures/25072)
