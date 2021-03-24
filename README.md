@@ -19,7 +19,7 @@
 | 5 | 판별분석 | 기계학습 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/05_%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.pdf) | [lab](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/Labs/05_%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.ipynb) |
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.pdf) | [lab](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/Labs/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.ipynb) |
 | 7 | SVM | 기계학습 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/07_SVM.pdf) | [lab](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/Labs/07_SVM.ipynb) |
-| 8 | 군집화 | 기계학습 |
+| 8 | 군집화 | 기계학습 | [pdf](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/08_%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [lab](https://github.com/JhyeonLee/Study_AI_ML/blob/main/Study_03(2021-01)/Labs/08_%EA%B5%B0%EC%A7%91%ED%99%94.ipynb) |
 | 9 | 차원축소 | 기계학습 |
 | 10 | 교차검증 | 기계학습 |
 | 11 | 선형회귀 | 인공지능 |
