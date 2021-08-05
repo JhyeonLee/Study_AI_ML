@@ -1,7 +1,7 @@
 # Study_AI/ML
 
 ## 공부 방법
-- Lecture: Youtube 강의 & 책
+- Lecture: 강의 & 책 & 코드
 - Lab: Colaboratory
 
 ## 순서도
@@ -46,7 +46,6 @@
   - [딥러닝 4단계: 합성곱 신경망 네트워트(CNN)](https://www.boostcourse.org/ai218/joinLectures/138357)
 - [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
-- 
 ## 책
 - 혼자 공부하는 머신러닝+딥러닝. 박해선. 한빛미디어
 - 파이썬 라이브러리를 활용한 머신러닝. 안드레아스 뮐러. 한빛미디어
