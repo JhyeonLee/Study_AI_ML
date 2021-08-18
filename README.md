@@ -5,7 +5,6 @@
 - Lab: Colaboratory
 
 ## 순서도
-
 | Sequence | Cource Contents |
 |:---:|:---:|
 | 1 | 인공지능 개요 |
@@ -34,16 +33,11 @@
 ## 강의
 - [인공지능](https://www.youtube.com/playlist?list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2)
 - [기계학습](https://www.youtube.com/playlist?list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true)
 - [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
-- [부스트 코스(edwith)](https://www.boostcourse.org/opencourse)
 - [모두를 위한 딥러닝 시즌2](https://deeplearningzerotoall.github.io/season2/)
   - [텐서플로우로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai212/joinLectures/25072)
   - [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214)
-- [딥러닝](https://www.boostcourse.org/opencourse)
-  - [딥러닝 1단계: 신경망과 딥러닝](https://www.boostcourse.org/ai215/joinLectures/86246)
-  - [딥러닝 2단계: 심층 신경망 향상시키기](https://www.boostcourse.org/ai216/joinLectures/132203)
-  - [딥러닝 3단계: 머신러닝 프로젝트 구조화하기](https://www.boostcourse.org/ai217/joinLectures/132223)
-  - [딥러닝 4단계: 합성곱 신경망 네트워트(CNN)](https://www.boostcourse.org/ai218/joinLectures/138357)
 - [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
 ## 책
