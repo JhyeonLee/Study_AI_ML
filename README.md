@@ -6,8 +6,8 @@
 - Dacon & Kaggle
 
 ## Dacon & Kaggle Model Style
-- [Dacon]주차수요 예측 AI 경진대회: DNN
-- [Kaggle]Titanic - Machine Learning from Disaster: Deep Residual Network
+- [Kaggle]Titanic - Machine Learning from Disaster: DNN
+- [Dacon]주차수요 예측 AI 경진대회: Deep Residual Network
 
 ## 순서도
 | Sequence | Cource Contents |
