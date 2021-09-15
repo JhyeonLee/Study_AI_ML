@@ -3,6 +3,7 @@
 ## 공부 방법
 - Lecture: 강의 & 책 & 코드
 - Lab: Colaboratory
+- Dacon & Kaggle
 
 ## 순서도
 | Sequence | Cource Contents |
