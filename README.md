@@ -12,7 +12,7 @@
 ## Dacon & Kaggle Model Style
 - [Kaggle]Titanic - Machine Learning from Disaster: DNN
 - [Dacon]주차수요 예측 AI 경진대회: Deep Residual Network
-- [Kaggle] Ventilator_Pressure_Prediction.ipynb
+- [Kaggle] Ventilator_Pressure_Prediction
 
 ## 순서도
 | Sequence | Cource Contents |
