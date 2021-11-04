@@ -1,5 +1,9 @@
 # Study_AI/ML
 
+## What to do
+1. Model과 Feature Engineering, Loading Data, EDA, Standardization, Submit, 등 모듈화
+2. 프로젝트: 영상 데이터와 언어 데이터(듣고 쓰고 말하기) 통합 처리 모델 만들기
+
 ## 공부 방법
 - Lecture: 강의 & 책 & 코드
 - Lab: Colaboratory
